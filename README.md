@@ -10,7 +10,7 @@
 - Implement a React Website
 
 1. Set styles dynamically
-2. ...
+2. Use styled-component package
 3. ...
 
 # 👀 Screenshots
